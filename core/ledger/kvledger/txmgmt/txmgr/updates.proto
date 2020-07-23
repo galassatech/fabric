@@ -17,6 +17,7 @@ message KVWrite {
     bool isDelete = 4;
     bytes value = 5;
     bytes version_bytes = 6;
+    bytes hash_value = 7;
 }
 
 message Updates {

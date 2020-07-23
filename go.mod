@@ -27,7 +27,7 @@ require (
 	github.com/frankban/quicktest v1.9.0 // indirect
 	github.com/fsouza/go-dockerclient v1.4.1
 	github.com/go-kit/kit v0.8.0
-	github.com/golang/protobuf v1.3.3
+	github.com/golang/protobuf v1.4.2
 	github.com/gorilla/handlers v1.4.0
 	github.com/gorilla/mux v1.7.2
 	github.com/grpc-ecosystem/go-grpc-middleware v1.1.0
@@ -69,6 +69,7 @@ require (
 	golang.org/x/text v0.3.2 // indirect
 	golang.org/x/tools v0.0.0-20200131233409-575de47986ce
 	google.golang.org/grpc v1.29.1
+	google.golang.org/protobuf v1.25.0 // indirect
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/cheggaaa/pb.v1 v1.0.28
 	gopkg.in/yaml.v2 v2.3.0
